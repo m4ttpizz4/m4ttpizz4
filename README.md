@@ -1,8 +1,12 @@
 # Perfil: 
 
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
 [![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=tokyonight&hide_border=false)
 
 ## Competências em:
 
