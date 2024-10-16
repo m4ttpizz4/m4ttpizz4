@@ -3,7 +3,7 @@
 ## Visitas no perfil:
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
-## Linguagens;
+## Linguagens:
 [![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Classificação:
