@@ -51,7 +51,6 @@
 ## Etherium Wallet:
 
 ![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c)
-
-0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA
+> 0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA
 
 
