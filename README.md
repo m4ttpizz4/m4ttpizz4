@@ -47,3 +47,11 @@
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+## Etherium Wallet:
+
+![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c)
+
+0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA
+
+
