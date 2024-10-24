@@ -50,6 +50,8 @@
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
 ## :euro: Etherium Wallet:
 
 ![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c) \
