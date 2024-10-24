@@ -7,7 +7,7 @@
 [![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :100: Classificação:
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=synthwave&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :fire: Ofensiva:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=synthwave&hide_border=true)
