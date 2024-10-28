@@ -43,6 +43,3 @@
 
 ![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c) \
 __**0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA :shipit:**__
-
-![Cobra animação](https://github.com/m4ttpizz4/m4ttpizz4/blob/output/github-contribution-grid-snake.svg)
-
