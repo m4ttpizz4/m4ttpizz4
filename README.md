@@ -3,17 +3,17 @@
 ## :eye: Visitas no perfil:
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
-## 🏆 Troféus:
-[![trophy](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)](https://github.com/m4ttpizz4/github-profile-trophy)
-
 ## :page_with_curl: Linguagens:
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=radical&hide_border=true)
 
 ## :100: Classificação:
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=radical&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
+![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=radical&show_icons=true&hide_border=true&rank_icon=github)
 
 ## :fire: Ofensiva:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=radical&hide_border=true) 
+
+## 🏆 Troféus:
+![trophy](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)
 
 ## :file_folder: Competências em:
 
