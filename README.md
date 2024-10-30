@@ -4,14 +4,17 @@
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
 ## :page_with_curl: Linguagens:
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) \
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## :100: Classificação:
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=synthwave&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
+[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=synthwave&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) \
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## :fire: Ofensiva:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=synthwave&hide_border=true)
-
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=synthwave&hide_border=true) \
+![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## :file_folder: Competências em:
 
 ### :computer: Sistemas:
