@@ -7,17 +7,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)](https://github.com/m4ttpizz4/github-profile-trophy)
 
 ## :page_with_curl: Linguagens:
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) \
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## :100: Classificação:
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=radical&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) \
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=radical&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## :fire: Ofensiva:
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) \
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=radical&hide_border=true) \
-![Linha](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=radical&hide_border=true) 
+
 ## :file_folder: Competências em:
 
 ### :computer: Sistemas:
