@@ -1,6 +1,7 @@
 # :vhs: Perfil:
-![GIF](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+![GIF](https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif)
 ## :eye: Visitas no perfil:
+![GIF](https://github.com/fnky/fnky/raw/fnky/img/website.gif)
 ![visitas em perfil](https://profile-counter.glitch.me/jolly/count.svg)
  
 ## :page_with_curl: Linguagens: 
@@ -45,4 +46,5 @@
 ## :euro: Etherium Wallet:
 
 ![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c) \
-__**0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA :shipit:**__
+__**0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA :shipit:**__ \
+![GIF](https://github.com/sindresorhus/sindresorhus/blob/main/under-construction.gif)
