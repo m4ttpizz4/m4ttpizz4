@@ -8,7 +8,7 @@
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=jolly&hide_border=true)
 
 ## :100: Classificação:
-![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=jolly&show_icons=true&hide_border=true&rank_icon=github)
+![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=jolly&show_icons=true&hide_border=true&rank_icon=default)
 
 ## :fire: Ofensiva:
 ![ofensiva](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=jolly&hide_border=true) 
