@@ -5,16 +5,16 @@
 ![visitas em perfil](https://profile-counter.glitch.me/jolly/count.svg)
 
 ## :page_with_curl: Linguagens: 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=html&layout=compact&theme=jolly&hide_border=true)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=jolly&hide_border=true)
 
 ## :100: Classificação:
 ![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=jolly&show_icons=true&hide_border=true&rank_icon=github)
 
 ## :fire: Ofensiva:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=jolly&hide_border=true) 
+![ofensiva](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=jolly&hide_border=true) 
 
 ## 🏆 Troféus:
-![trophy](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)
+![troféus](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)
 
 ## :file_folder: Competências em:
 
