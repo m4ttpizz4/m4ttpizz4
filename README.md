@@ -35,7 +35,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
 
-### :books: Outros:
+### 📚 Frameworks e Bibliotecas:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Framework](https://img.shields.io/badge/Tkinter%20-%20FrameWork?style=plastic&color=%23F56F22)
+
+### 🗃️ Outros:
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
