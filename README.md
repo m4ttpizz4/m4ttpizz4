@@ -2,19 +2,19 @@
 ![GIF](https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif)
 ## :eye: Visitas no perfil:
 ![GIF](https://github.com/fnky/fnky/raw/fnky/img/website.gif)
-![visitas em perfil](https://profile-counter.glitch.me/jolly/count.svg)
+![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
-## :page_with_curl: Linguagens:
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=jolly&hide_border=true)
+## :page_with_curl: Linguagens: 
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=tokyonight&hide_border=true)
 
 ## :100: Classificação:
-![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=jolly&show_icons=true&hide_border=true&rank_icon=default)
+![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=default)
 
 ## :fire: Ofensiva:
-![ofensiva](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=jolly&hide_border=true) 
+![ofensiva](https://github-readme-streak-stats.herokuapp.com/?user=m4ttpizz4&theme=tokyonight&hide_border=true) 
 
 ## 🏆 Troféus:
-![troféus](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=radical)
+![troféus](https://github-profile-trophy.vercel.app/?username=m4ttpizz4&theme=tokyonight&no-frame=true)
 
 ## :file_folder: Competências em:
 
