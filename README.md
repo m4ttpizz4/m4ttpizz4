@@ -49,6 +49,10 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
 
+### ⤴️ Commits:
+![Snake animation](https://github.com/m4ttpizz4/m4ttpizz4/blob/output/github-contribution-grid-snake.svg)
+[![README](https://github-readme-stats-vercel.app/api/pin/?username=m4ttpizz4&repo=m4ttpizz4&theme=react)](https://github.com/m4ttpizz4)
+
 ## :euro: Etherium Wallet:
 
 ![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c) \
