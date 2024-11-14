@@ -4,7 +4,7 @@
 ![GIF](https://github.com/fnky/fnky/raw/fnky/img/website.gif)
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
-## :page_with_curl: Linguagens: 
+## :page_with_curl: Linguagens:
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=tokyonight&hide_border=true&hide=html)
 
 ## :100: Classificação:
