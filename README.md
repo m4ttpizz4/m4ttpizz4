@@ -3,7 +3,7 @@
 ## :eye: Visitas no perfil:
 ![GIF](https://github.com/fnky/fnky/raw/fnky/img/website.gif)
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
- 
+
 ## :page_with_curl: Linguagens: 
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&layout=pie&theme=tokyonight&hide_border=true)
 
@@ -42,15 +42,11 @@
 ![Framework](https://img.shields.io/badge/Tkinter%20-%20FrameWork?style=plastic&color=%23F56F22)
 
 ### 🗃️ Outros:
-
 ![Git](https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
-
-### ⤴️ Commits
-![Snake animation](https://github.com/m4ttpizz4/m4ttpizz4/blob/output/github-contribution-grid-snake.svg)
 
 ## :euro: Etherium Wallet:
 
