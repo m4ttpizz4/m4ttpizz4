@@ -40,6 +40,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![Framework](https://img.shields.io/badge/Tkinter%20-%20FrameWork?style=plastic&color=%23F56F22)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 
 ### 🗃️ Outros:
 ![Git](https://img.shields.io/badge/Git-E34F26?style=plastic&logo=git&logoColor=white)
