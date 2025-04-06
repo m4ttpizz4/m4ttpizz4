@@ -1,5 +1,4 @@
-# :vhs: Perfil: 
-![GIF](https://github.com/sindresorhus/sindresorhus/blob/main/party-furby.gif)
+# :vhs: Perfil:
 ## :eye: Visitas no perfil:
 ![GIF](https://github.com/fnky/fnky/raw/fnky/img/website.gif)
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
