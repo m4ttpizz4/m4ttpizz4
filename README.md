@@ -4,7 +4,7 @@
 ![visitas em perfil](https://profile-counter.glitch.me/m4ttpizz4/count.svg)
 
 ## :page_with_curl: Linguagens:
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=HTML&layout=pie&theme=tokyonight&hide_border=true)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ttpizz4&hide=HTML,CSS&layout=pie&theme=tokyonight&hide_border=true)
 
 ## :100: Classificação:
 ![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=m4ttpizz4&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=default)
